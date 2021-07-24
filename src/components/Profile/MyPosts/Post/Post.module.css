@@ -1,0 +1,14 @@
+.item {
+  padding: 5px;
+  background-color: rgb(201, 236, 172);
+}
+
+.image {
+  width: 60px;
+  border-radius: 30px;
+  margin: 10px;
+}
+
+.likes {
+  font-size: 10px;
+}

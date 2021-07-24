@@ -1,0 +1,8 @@
+.footer {
+  grid-area: f;
+  font-size: small;
+  font-variant: small-caps;
+  background-color: rgb(188, 226, 212);
+  text-align: center;
+  padding-top: 1vmax;
+}
